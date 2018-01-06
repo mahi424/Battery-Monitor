@@ -1,6 +1,0 @@
-sudo nautilus
-copy to usr/local/bin
-add to startup-applications
-command as
-/usr/local/bin/batteryfull.sh
-reboot
